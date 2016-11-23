@@ -1,0 +1,5 @@
+module CTermbox [system] {
+    header "termbox.h"
+    link "termbox"
+    export *
+}
