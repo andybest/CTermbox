@@ -1,5 +1,5 @@
 module CTermbox [system] {
-    header "termbox.h"
+    header "/usr/local/include/termbox.h"
     link "termbox"
     export *
 }
